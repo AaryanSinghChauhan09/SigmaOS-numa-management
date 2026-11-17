@@ -3,7 +3,7 @@ name = "SigmaOS-numa-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "numa-management component"
+description = "numa management component"
 upstream = []
 
 [contract]
